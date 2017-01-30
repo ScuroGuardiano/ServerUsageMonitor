@@ -17,3 +17,4 @@ Dodatkowe informacje
 --------------------
 * Do folderu ze skompilowan¹ aplikacj¹ nale¿y wkleiæ 2 dllki: sfml-network-2.dll oraz sfml-system-2.dll
 * Nie umiem robiæ frontendu xD
+* Musisz mieæ odblokowany port 6666
