@@ -1,0 +1,57 @@
+body
+{
+	background-color: #1F1F1F;
+	font-family: "Consolas";
+}
+#container
+{
+	width: 95%;
+	margin: auto;
+}
+header
+{
+	background-color: #2F2F2F;
+	color: silver;
+	text-align: center;
+}
+#content
+{
+	padding: 10px;
+	padding-bottom: 20px;
+	background-color: #2F2F2F;
+	color: silver;
+}
+#content h1
+{
+	margin-top: 0;
+	text-align: center;
+}
+
+.bar-container
+{
+	width: 95%;
+	margin: auto;
+}
+
+.bar
+{
+	background-color: silver;
+	height: 30px;
+	width: 0%;
+}
+
+.label
+{
+	font-weight: bold;
+	font-size: 22px;
+	color: #2F2F2F;
+	line-height: 30px;
+	text-align: center;
+}
+
+#status
+{
+	font-size: 25px;
+	color: silver;
+	text-align: right;
+}
